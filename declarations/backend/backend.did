@@ -1,0 +1,6 @@
+service : {
+  getThemes: () -> (vec record {
+                          text;
+                          text;
+                        });
+}
